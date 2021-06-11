@@ -78,22 +78,22 @@ h1, h2, h3, h4, h5, h6, p {
 }
 }
 @media screen and (max-width:375px) {
-    .header__logo img {
+  .header__logo.logo img {
     max-width: 135px;
     min-height: 74px;
     margin-top: 20px;
     margin-left: 15px;
-}
+  }
 .text p {
     margin-right: 11px;
-}
+  }
 .header__logo.logo img {
     margin-left: 0;
-}
+  }
 .header__contact-phone {
     margin-top: 19px;
-}
+  }
 .header__contact.body__contact {
     margin-top: 16px;
-}
+  }
 }
